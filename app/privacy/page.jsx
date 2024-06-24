@@ -25,13 +25,13 @@ const page = () => {
           <li className=" text-base-regular font-bold mt-2">User Profile</li>
           <p className="text-small-regular">
             When You create a user profile in the Services and confirm being the
-            holder of a certain number, Truecaller will collect the information
+            holder of a certain number, EFN Estates will collect the information
             provided by You. In order to create a user profile, You must
             register Your first name, last name and phone number. Additional
             information that may be provided at Your option include, but is not
             limited to, photo, gender, street address and zip code, country of
             residence, email address, professional website, Facebook page,
-            Twitter address and a short status message. Truecaller may
+            Twitter address and a short status message. EFN Estates may
             supplement the information provided by You with information from
             third parties and add it to the information provided by You e.g.
             demographic information and additional contact information that is
@@ -41,7 +41,7 @@ const page = () => {
             Installation And Use
           </li>
           <p className="text-small-regular">
-            When You install and use the Services, Truecaller will collect
+            When You install and use the Services, EFN Estates will collect
             personal information from You and any devices You may use in Your
             interaction with our Services. This information may include e.g.:
             geo-location; Your IP address; device ID or unique identifier;
@@ -60,7 +60,7 @@ const page = () => {
             viewed by You, content You have commented on or sent to us and
             information about the ads You see and/or engage with; the search
             terms You use; order information and other usage activity and data
-            logged by Truecaller’s servers from time to time. Truecaller may
+            logged by EFN Estates’s servers from time to time. EFN Estates may
             collect some of this information automatically through use of
             cookies and You can learn more about our use of cookies in our
             Cookie Policy.
@@ -102,16 +102,16 @@ const page = () => {
             Contact Information
           </li>
           <p className="text-small-regular">
-            Where the Truecaller mobile applications (“Truecaller Apps”) are
+            Where the EFN Estates mobile applications (“EFN Estates Apps”) are
             obtained from other sources than Apple App Store or Google Play, You
             may share the names, numbers, Google ID’s and email addresses
-            contained in Your address book (“Contact Information”) with
-            Truecaller by enabling the Truecaller Enhanced Search Functionality.
-            Where the Truecaller Apps are obtained from Apple App Store or
+            contained in Your address book (“Contact Information”) with EFN
+            Estates by enabling the EFN Estates Enhanced Search Functionality.
+            Where the EFN Estates Apps are obtained from Apple App Store or
             Google Play, we do not share any user Contact Information. In
             addition to Contact Information, if You choose to activate use of a
             third party service, such as social networks services, within the
-            Services, Truecaller may collect, store and use the list of
+            Services, EFN Estates may collect, store and use the list of
             identifiers associated with said services linked to the Contact
             Information in order to enhance the results shared with other Users.
           </p>
@@ -122,11 +122,11 @@ const page = () => {
             will be collected and used from Your address book. Other numbers or
             information that may be contained in Your address book will be
             filtered away by our safety algorithms and will therefore not be
-            collected by Truecaller. Please also note that You can always choose
-            not to share Contact Information with Truecaller and if You have
-            shared such information and change Your mind at a later stage, You
-            can delist Your number or opt-out to render Your entire Contact
-            Information unavailable for search in the Truecaller database.
+            collected by EFN Estates. Please also note that You can always
+            choose not to share Contact Information with EFN Estates and if You
+            have shared such information and change Your mind at a later stage,
+            You can delist Your number or opt-out to render Your entire Contact
+            Information unavailable for search in the EFN Estates database.
           </p>
 
           <li className=" text-base-regular font-bold mt-3">
@@ -136,12 +136,12 @@ const page = () => {
             You may provide us with various information in connection with Your
             interaction with our Services. For example, You may through tagging
             functionality associate a phone number, that is not registered in
-            the Truecaller database or belongs to a User, with a business or
+            the EFN Estates database or belongs to a User, with a business or
             name and You may report a phone number as spam or some other
-            attribute to be included in spam blocking directories. Truecaller
+            attribute to be included in spam blocking directories. EFN Estates
             may also from time to time offer You the opportunity to provide
             information on Your experience from using the Services or to
-            participate in contests, surveys or other promotions. Truecaller
+            participate in contests, surveys or other promotions. EFN Estates
             will collect the information You provide in connection therewith, as
             well as any other information You provide through the Services or
             when You communicate or interact with us.
